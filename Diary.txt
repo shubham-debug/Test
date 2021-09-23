@@ -1,1 +1,3 @@
 Hi this is the diary for learning git
+
+this is 1st change
